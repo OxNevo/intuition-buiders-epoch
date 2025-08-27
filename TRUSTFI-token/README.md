@@ -13,7 +13,7 @@
 - **Symbol:** TFI  
 - **Decimals:** 18  
 - **Initial Supply:** 1,000,000 tokens  
-- **Owner:** Deployer of the contract  
+- **Owner:** Oxnevo 
 - **Network:** Intuition Testnet  
 
 ## Features
